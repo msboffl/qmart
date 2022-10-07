@@ -3,4 +3,4 @@
 - ### QMart - [Figma File](https://www.figma.com/file/nkEJiM13vzSj8yQOuK9OKh/QMart-UX?node-id=3%3A2)
 
 ## UX Contributors
-- [#Task No]() - What updates you are updated - [Github Name](Profile_URL)
+- [#2]() - Designed the user flow for buyer and seller - Atharva1802([Profile_URL](https://github.com/Atharva1802))
